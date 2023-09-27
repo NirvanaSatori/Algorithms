@@ -79,7 +79,6 @@ the problem to them to determine what the answer is, and then check if your
 answer matches the actual answer (e.g. work it out on paper or in your head, no
 code necessary here). If your answer doesn't match, you need to spend more time
 understanding the problem.
-
 ### 2. Write Your Own Test Cases
 
 Now that you understand the problem and why the answers to the test cases are
